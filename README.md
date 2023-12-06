@@ -1,9 +1,9 @@
 # Hesap Makinesi
-1.Toplama İşlemi
-2.Çıkarma İşlemi
-3.Çarpma İşlemi
-4.Bölme işlemi
-5.Üslü Sayı Hesaplama
-6.Faktoriyel Hesaplama
-7.Mod Alma
-8.Dikdörtgen Alan ve Çevre Hesabı
+1Toplama İşlemi
+2Çıkarma İşlemi
+3Çarpma İşlemi
+4Bölme işlemi
+5Üslü Sayı Hesaplama
+6Faktoriyel Hesaplama
+7Mod Alma
+8Dikdörtgen Alan ve Çevre Hesabı
